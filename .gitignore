@@ -45,6 +45,8 @@ coverage.xml
 *,cover
 .hypothesis/
 
+.idea/workspace.xml
+
 # Translations
 *.mo
 *.pot
