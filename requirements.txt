@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+mock==2.0.0
 inject==3.3.1
-=======
-inject==3.3.1
->>>>>>> master
